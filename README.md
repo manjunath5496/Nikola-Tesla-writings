@@ -61,7 +61,6 @@
 <th scope="row">Significant design</th>
 <td>
 <div id="NavFrame1" class="NavFrame collapsed">
-<div class="NavHead"><span class="nowrap">&nbsp;</span><a id="NavToggle1" class="NavToggle" href="https://en.wikipedia.org/wiki/Nikola_Tesla#">[hide]</a></div>
 <ul class="NavContent">
 <li>
 <div class="plainlist">
@@ -102,7 +101,7 @@
 <th scope="row">Awards</th>
 <td>
 <div id="NavFrame2" class="NavFrame collapsed">
-<div class="NavHead"><span class="nowrap">&nbsp;</span><a id="NavToggle2" class="NavToggle" href="https://en.wikipedia.org/wiki/Nikola_Tesla#">[hide]</a></div>
+
 <ul class="NavContent">
 <li>
 <div class="plainlist">
