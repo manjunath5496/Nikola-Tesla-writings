@@ -61,7 +61,40 @@
 <th scope="row">Significant design</th>
 <td>
 <div id="NavFrame1" class="NavFrame collapsed">
-<div class="NavHead"><span class="nowrap">&nbsp;</span><a id="NavToggle1" class="NavToggle" href="https://en.wikipedia.org/wiki/Nikola_Tesla#">[show]</a></div>
+<div class="NavHead"><span class="nowrap">&nbsp;</span><a id="NavToggle1" class="NavToggle" href="https://en.wikipedia.org/wiki/Nikola_Tesla#">[hide]</a></div>
+<ul class="NavContent">
+<li>
+<div class="plainlist">
+<ul>
+<li><a title="AC motor" href="https://en.wikipedia.org/wiki/AC_motor">AC motor</a></li>
+<li><a title="Carbon button lamp" href="https://en.wikipedia.org/wiki/Carbon_button_lamp">Carbon button lamp</a></li>
+<li><a title="Death ray" href="https://en.wikipedia.org/wiki/Death_ray">Death ray</a></li>
+<li><a title="Induction motor" href="https://en.wikipedia.org/wiki/Induction_motor">Induction motor</a></li>
+<li><a title="Plasma globe" href="https://en.wikipedia.org/wiki/Plasma_globe">Plasma globe</a></li>
+<li><a title="Plasma lamp" href="https://en.wikipedia.org/wiki/Plasma_lamp">Plasma lamp</a></li>
+<li><a title="Polyphase system" href="https://en.wikipedia.org/wiki/Polyphase_system">Polyphase system</a></li>
+<li><a title="Radio control" href="https://en.wikipedia.org/wiki/Radio_control">Radio control</a></li>
+<li><a title="Resonant inductive coupling" href="https://en.wikipedia.org/wiki/Resonant_inductive_coupling">Resonant inductive coupling</a></li>
+<li><a title="Rotating magnetic field" href="https://en.wikipedia.org/wiki/Rotating_magnetic_field">Rotating magnetic field</a></li>
+<li><a title="Teleforce" href="https://en.wikipedia.org/wiki/Teleforce">Teleforce</a></li>
+<li><a title="Telegeodynamics" href="https://en.wikipedia.org/wiki/Telegeodynamics">Telegeodynamics</a></li>
+<li><a title="Teleoperation" href="https://en.wikipedia.org/wiki/Teleoperation">Teleoperation</a></li>
+<li><a title="Tesla coil" href="https://en.wikipedia.org/wiki/Tesla_coil">Tesla coil</a></li>
+<li><a title="Tesla Experimental Station" href="https://en.wikipedia.org/wiki/Tesla_Experimental_Station">Tesla Experimental Station</a></li>
+<li><a title="Tesla's oscillator" href="https://en.wikipedia.org/wiki/Tesla%27s_oscillator">Tesla's oscillator</a></li>
+<li><a title="Tesla turbine" href="https://en.wikipedia.org/wiki/Tesla_turbine">Tesla turbine</a></li>
+<li><a title="Tesla valve" href="https://en.wikipedia.org/wiki/Tesla_valve">Tesla valve</a></li>
+<li><a title="Torpedo" href="https://en.wikipedia.org/wiki/Torpedo">Torpedo</a><sup id="cite_ref-FOOTNOTEJonnes2004355_1-0" class="reference"></sup></li>
+<li><a title="Vacuum variable capacitor" href="https://en.wikipedia.org/wiki/Vacuum_variable_capacitor">Vacuum variable capacitor</a></li>
+<li><a title="Violet ray" href="https://en.wikipedia.org/wiki/Violet_ray">Violet ray</a></li>
+<li><a title="VTOL" href="https://en.wikipedia.org/wiki/VTOL">VTOL</a></li>
+<li><a title="Wardenclyffe Tower" href="https://en.wikipedia.org/wiki/Wardenclyffe_Tower">Wardenclyffe Tower</a></li>
+<li><a title="Wireless power transfer" href="https://en.wikipedia.org/wiki/Wireless_power_transfer">Wireless power transfer</a></li>
+<li><a title="World Wireless System" href="https://en.wikipedia.org/wiki/World_Wireless_System">World Wireless System</a></li>
+</ul>
+</div>
+</li>
+</ul>
 </div>
 </td>
 </tr>
@@ -69,7 +102,26 @@
 <th scope="row">Awards</th>
 <td>
 <div id="NavFrame2" class="NavFrame collapsed">
-<div class="NavHead"><span class="nowrap">&nbsp;</span><a id="NavToggle2" class="NavToggle" href="https://en.wikipedia.org/wiki/Nikola_Tesla#">[show]</a></div>
+<div class="NavHead"><span class="nowrap">&nbsp;</span><a id="NavToggle2" class="NavToggle" href="https://en.wikipedia.org/wiki/Nikola_Tesla#">[hide]</a></div>
+<ul class="NavContent">
+<li>
+<div class="plainlist">
+<ul>
+<li><a title="Order of St. Sava" href="https://en.wikipedia.org/wiki/Order_of_St._Sava">Order of St. Sava</a>, II Class, Government of Serbia (1892)</li>
+<li><a title="Elliott Cresson Medal" href="https://en.wikipedia.org/wiki/Elliott_Cresson_Medal">Elliott Cresson Medal</a>&nbsp;(1894)</li>
+<li><a title="Order of Prince Danilo I" href="https://en.wikipedia.org/wiki/Order_of_Prince_Danilo_I">Order of Prince Danilo I</a>&nbsp;(1895)</li>
+<li><a class="mw-redirect" title="Edison Medal" href="https://en.wikipedia.org/wiki/Edison_Medal">Edison Medal</a>&nbsp;(1916)</li>
+<li><a title="Order of St. Sava" href="https://en.wikipedia.org/wiki/Order_of_St._Sava">Order of St. Sava</a>, I Class, Government of Yugoslavia (1926)</li>
+<li><a title="Order of the Yugoslav Crown" href="https://en.wikipedia.org/wiki/Order_of_the_Yugoslav_Crown">Order of the Yugoslav Crown</a>&nbsp;(1931)</li>
+<li><a title="John Scott Medal" href="https://en.wikipedia.org/wiki/John_Scott_Medal">John Scott Medal</a>&nbsp;(1934)</li>
+<li><a title="Order of the White Eagle (Serbia)" href="https://en.wikipedia.org/wiki/Order_of_the_White_Eagle_(Serbia)">Order of the White Eagle</a>, I Class, Government of Yugoslavia (1936)</li>
+<li><a title="Order of the White Lion" href="https://en.wikipedia.org/wiki/Order_of_the_White_Lion">Order of the White Lion</a>, I Class, Government of Czechoslovakia (1937)</li>
+<li>University of Paris Medal (1937)</li>
+<li>The Medal of the University St Clement of Ochrida,&nbsp;<a class="mw-redirect" title="Sofia, Bulgaria" href="https://en.wikipedia.org/wiki/Sofia,_Bulgaria">Sofia, Bulgaria</a>&nbsp;(1939)</li>
+</ul>
+</div>
+</li>
+</ul>
 </div>
 </td>
 </tr>
