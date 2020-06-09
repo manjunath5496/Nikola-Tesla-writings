@@ -61,8 +61,7 @@
 <th scope="row">Significant design</th>
 <td>
 <div id="NavFrame1" class="NavFrame collapsed">
-<ul class="NavContent">
-<li>
+
 <div class="plainlist">
 <ul>
 <li><a title="AC motor" href="https://en.wikipedia.org/wiki/AC_motor">AC motor</a></li>
@@ -92,8 +91,7 @@
 <li><a title="World Wireless System" href="https://en.wikipedia.org/wiki/World_Wireless_System">World Wireless System</a></li>
 </ul>
 </div>
-</li>
-</ul>
+
 </div>
 </td>
 </tr>
