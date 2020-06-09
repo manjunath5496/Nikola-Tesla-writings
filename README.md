@@ -100,8 +100,7 @@
 <td>
 <div id="NavFrame2" class="NavFrame collapsed">
 
-<ul class="NavContent">
-<li>
+
 <div class="plainlist">
 <ul>
 <li><a title="Order of St. Sava" href="https://en.wikipedia.org/wiki/Order_of_St._Sava">Order of St. Sava</a>, II Class, Government of Serbia (1892)</li>
@@ -117,8 +116,7 @@
 <li>The Medal of the University St Clement of Ochrida,&nbsp;<a class="mw-redirect" title="Sofia, Bulgaria" href="https://en.wikipedia.org/wiki/Sofia,_Bulgaria">Sofia, Bulgaria</a>&nbsp;(1939)</li>
 </ul>
 </div>
-</li>
-</ul>
+
 </div>
 </td>
 </tr>
