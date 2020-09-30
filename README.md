@@ -156,6 +156,6 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/Nikola-Tesla-writings/blob/master/tesla(8).pdf" style="text-decoration:none;">Nikola Tesla Colorado Springs Notes 1899&minus;1900: Part I</a></li>
                 <li><a target="_blank" href="https://github.com/manjunath5496/Nikola-Tesla-writings/blob/master/tesla(9).pdf" style="text-decoration:none;">Nikola Tesla Colorado Springs Notes 1899&minus;1900: Part II</a></li>               
                 
-                
+<li><a target="_blank" href="https://github.com/manjunath5496/Nikola-Tesla-writings/blob/master/tesla(10).pdf" style="text-decoration:none;">Nikola Tesla Complete Articles And Patents</a></li>               
 
 </ul>
